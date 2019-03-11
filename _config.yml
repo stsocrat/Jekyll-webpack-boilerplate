@@ -67,4 +67,5 @@ exclude:
   - icon.png
 
 ### Include from processing.
-  include: ["_redirects", "_headers"]
+  include: 
+  - _redirects
