@@ -67,5 +67,10 @@ exclude:
   - icon.png
 
 ### Include from processing.
+<<<<<<< HEAD
   include: 
   - _redirects
+=======
+# include: 
+#   - _redirects
+>>>>>>> master
